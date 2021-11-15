@@ -1,0 +1,80 @@
+[INIT]
+NumFxs=15
+
+[FX1]
+Animacion=115
+offsetx=0
+offsety=30
+
+[FX2] 'Curar veneno
+Animacion=119
+offsetx=0
+offsety=-15
+
+[FX3] 'Envenenar
+Animacion=123
+offsetx=0
+offsety=-15
+
+[FX4] 'Meditar pequeño
+Animacion=134
+offsetx=0
+offsety=0
+
+[FX5] 'Meditar mediano
+Animacion=145
+offsetx=0
+offsety=0
+
+[FX6] 'Meditar grande
+Animacion=156
+offsetx=0
+offsety=0
+
+[FX7] ' Explosion Roja
+Animacion=172
+offsetx=0
+offsety=30
+
+[FX8] ' Paralizar
+Animacion=183
+offsetx=0
+offsety=50
+
+[FX9] ' Curar heridas serias
+Animacion=194
+offsetx=0
+offsety=30
+
+[FX10] ' Misil Magico
+Animacion=205
+offsetx=0
+offsety=0
+
+[FX11] ' Rayos
+Animacion=221
+offsetx=0
+offsety=0
+
+[FX12] ' Paralisis naturaleza
+Animacion=237
+offsetx=0
+offsety=50
+
+[FX13] ' Apocalipsis
+Animacion=259
+offsetx=0
+offsety=0
+
+[FX14] ' Sangre
+Animacion=265
+offsetx=0
+offsety=0
+
+[FX15] ' Dardo Mágico
+Animacion=275
+offsetx=0
+offsety=0
+
+
+

@@ -1,0 +1,84 @@
+[INIT]
+NumArmas=13
+
+[Arma1]
+Dir1=4719 'norte
+Dir2=4721
+Dir3=4718
+Dir4=4720 'sur
+
+[Arma3]
+Dir1=4723 'norte
+Dir2=4725
+Dir3=4722
+Dir4=4724 'sur
+
+'Garrote
+[ARMA4]
+Dir1=10269
+Dir2=10271
+Dir3=10268
+Dir4=10270
+
+'Cimitarra
+[ARMA5]
+Dir1=10295
+Dir2=10297
+Dir3=10294
+Dir4=10296
+
+'Vara de mago
+[ARMA6]
+Dir1=10321
+Dir2=10323
+Dir3=10320
+Dir4=10322
+
+'Arco
+[ARMA7]
+Dir1=10467
+Dir2=10469
+Dir3=10466
+Dir4=10468
+
+'Espada Dorada
+[ARMA8]
+Dir1=4861
+Dir2=4863
+Dir3=4860
+Dir4=4862
+
+'Espada Daga
+[ARMA9]
+Dir1=5097
+Dir2=5099
+Dir3=5096
+Dir4=5098
+
+'Espada Plata
+[ARMA10]
+Dir1=5123
+Dir2=5125
+Dir3=5122
+Dir4=5124
+
+'Espada Matadrakos
+[ARMA11]
+Dir1=5149
+Dir2=5151
+Dir3=5148
+Dir4=5150
+
+'Espada Amargura
+[ARMA12]
+Dir1=5175
+Dir2=5177
+Dir3=5174
+Dir4=5176
+
+'Espada Argentum Divina
+[ARMA13]
+Dir1=12402
+Dir2=12404
+Dir3=12401
+Dir4=12403

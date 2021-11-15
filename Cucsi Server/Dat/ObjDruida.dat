@@ -1,0 +1,22 @@
+[INIT]
+NumObjs=6
+
+[Obj1] ' Poción Roja
+Index=38
+
+[Obj2] ' Poción Azul
+Index=37
+
+[Obj3] ' Poción Verde
+Index=39
+
+[Obj4] ' Poción Amarilla
+Index=36
+
+[Obj5] ' Poción Violeta
+Index=166
+
+[Obj6] ' Poción AntiParálisis
+Index=558
+
+

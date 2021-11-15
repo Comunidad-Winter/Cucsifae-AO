@@ -1,0 +1,333 @@
+28/08/2003 19:38:22 IniciaWsApi
+28/08/2003 19:41:21 IniciaWsApi
+28/08/2003 19:44:21 EventoSockAccept NewIndex: 1 NuevoSock: 528 IP: 127.0.0.1
+28/08/2003 19:45:11 WndProc:FD_CLOSE:N=1:Err=0
+28/08/2003 19:46:00 EventoSockAccept NewIndex: 1 NuevoSock: 672 IP: 127.0.0.1
+28/08/2003 19:46:56 LimpiaWsApi
+28/08/2003 20:40:29 IniciaWsApi
+28/08/2003 20:41:09 EventoSockAccept NewIndex: 1 NuevoSock: 624 IP: 127.0.0.1
+28/08/2003 20:42:38 WndProc:FD_CLOSE:N=1:Err=0
+28/08/2003 20:43:10 EventoSockAccept NewIndex: 1 NuevoSock: 688 IP: 127.0.0.1
+28/08/2003 20:43:13 WndProc:FD_CLOSE:N=1:Err=0
+28/08/2003 20:43:31 EventoSockAccept NewIndex: 1 NuevoSock: 680 IP: 127.0.0.1
+28/08/2003 20:46:34 WndProc:FD_CLOSE:N=-1:Err=0
+28/08/2003 20:46:44 EventoSockAccept NewIndex: 1 NuevoSock: 624 IP: 127.0.0.1
+28/08/2003 20:46:48 WndProc:FD_CLOSE:N=1:Err=0
+28/08/2003 21:07:37 IniciaWsApi
+28/08/2003 21:08:18 EventoSockAccept NewIndex: 1 NuevoSock: 528 IP: 127.0.0.1
+28/08/2003 21:09:26 EventoSockAccept NewIndex: 2 NuevoSock: 672 IP: 127.0.0.1
+28/08/2003 21:09:53 LimpiaWsApi
+28/08/2003 21:11:53 IniciaWsApi
+28/08/2003 21:12:09 EventoSockAccept NewIndex: 1 NuevoSock: 644 IP: 127.0.0.1
+28/08/2003 21:13:18 EventoSockAccept NewIndex: 2 NuevoSock: 688 IP: 127.0.0.1
+28/08/2003 21:13:45 EventoSockAccept NewIndex: 3 NuevoSock: 700 IP: 127.0.0.1
+28/08/2003 21:14:44 LimpiaWsApi
+28/08/2003 21:18:53 IniciaWsApi
+28/08/2003 21:19:15 EventoSockAccept NewIndex: 1 NuevoSock: 652 IP: 127.0.0.1
+28/08/2003 21:21:04 IniciaWsApi
+28/08/2003 21:21:31 EventoSockAccept NewIndex: 1 NuevoSock: 652 IP: 127.0.0.1
+28/08/2003 21:22:50 IniciaWsApi
+28/08/2003 21:23:09 EventoSockAccept NewIndex: 1 NuevoSock: 652 IP: 127.0.0.1
+28/08/2003 21:23:38 WndProc:FD_CLOSE:N=1:Err=10053
+28/08/2003 21:27:11 IniciaWsApi
+28/08/2003 21:27:24 EventoSockAccept NewIndex: 1 NuevoSock: 652 IP: 127.0.0.1
+28/08/2003 21:31:08 WndProc:FD_CLOSE:N=1:Err=10053
+28/08/2003 21:32:16 LimpiaWsApi
+29/08/2003 2:34:07 IniciaWsApi
+29/08/2003 2:36:03 IniciaWsApi
+29/08/2003 2:40:14 IniciaWsApi
+29/08/2003 2:41:09 EventoSockAccept NewIndex: 1 NuevoSock: 556 IP: 127.0.0.1
+29/08/2003 3:34:02 IniciaWsApi
+29/08/2003 3:35:36 EventoSockAccept NewIndex: 1 NuevoSock: 672 IP: 127.0.0.1
+29/08/2003 3:38:07 WndProc:FD_CLOSE:N=-1:Err=0
+29/08/2003 3:40:25 IniciaWsApi
+29/08/2003 3:41:10 EventoSockAccept NewIndex: 1 NuevoSock: 536 IP: 127.0.0.1
+29/08/2003 3:42:18 WndProc:FD_CLOSE:N=-1:Err=0
+29/08/2003 3:46:32 IniciaWsApi
+29/08/2003 3:47:17 EventoSockAccept NewIndex: 1 NuevoSock: 536 IP: 127.0.0.1
+29/08/2003 3:48:02 EventoSockAccept NewIndex: 1 NuevoSock: 704 IP: 127.0.0.1
+29/08/2003 3:48:29 EventoSockAccept NewIndex: 1 NuevoSock: 688 IP: 127.0.0.1
+29/08/2003 12:10:58 IniciaWsApi
+29/08/2003 12:11:54 EventoSockAccept NewIndex: 1 NuevoSock: 852 IP: 127.0.0.1
+29/08/2003 12:49:59 IniciaWsApi
+29/08/2003 12:50:53 EventoSockAccept NewIndex: 1 NuevoSock: 580 IP: 127.0.0.1
+29/08/2003 12:51:51 EventoSockAccept NewIndex: 1 NuevoSock: 748 IP: 127.0.0.1
+29/08/2003 12:52:18 EventoSockAccept NewIndex: 1 NuevoSock: 732 IP: 127.0.0.1
+29/08/2003 12:53:31 EventoSockAccept NewIndex: 1 NuevoSock: 548 IP: 127.0.0.1
+29/08/2003 12:53:31 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 12:53:45 EventoSockAccept NewIndex: 1 NuevoSock: 580 IP: 127.0.0.1
+29/08/2003 12:53:46 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 12:53:49 EventoSockAccept NewIndex: 1 NuevoSock: 300 IP: 127.0.0.1
+29/08/2003 12:53:49 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 12:53:57 EventoSockAccept NewIndex: 1 NuevoSock: 548 IP: 127.0.0.1
+29/08/2003 12:53:57 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 12:53:59 EventoSockAccept NewIndex: 1 NuevoSock: 580 IP: 127.0.0.1
+29/08/2003 12:53:59 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 12:54:00 EventoSockAccept NewIndex: 1 NuevoSock: 300 IP: 127.0.0.1
+29/08/2003 12:54:00 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 12:54:00 EventoSockAccept NewIndex: 1 NuevoSock: 548 IP: 127.0.0.1
+29/08/2003 12:54:01 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 12:54:01 EventoSockAccept NewIndex: 1 NuevoSock: 580 IP: 127.0.0.1
+29/08/2003 12:54:02 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 12:56:29 EventoSockAccept NewIndex: 1 NuevoSock: 548 IP: 127.0.0.1
+29/08/2003 12:56:29 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 12:57:15 IniciaWsApi
+29/08/2003 12:57:18 EventoSockAccept NewIndex: 1 NuevoSock: 768 IP: 127.0.0.1
+29/08/2003 12:57:18 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 12:57:21 EventoSockAccept NewIndex: 1 NuevoSock: 668 IP: 127.0.0.1
+29/08/2003 12:57:21 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 12:57:22 EventoSockAccept NewIndex: 1 NuevoSock: 764 IP: 127.0.0.1
+29/08/2003 12:57:22 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 12:57:23 EventoSockAccept NewIndex: 1 NuevoSock: 768 IP: 127.0.0.1
+29/08/2003 12:57:23 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 12:57:24 EventoSockAccept NewIndex: 1 NuevoSock: 668 IP: 127.0.0.1
+29/08/2003 12:57:24 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 12:57:44 EventoSockAccept NewIndex: 1 NuevoSock: 764 IP: 127.0.0.1
+29/08/2003 15:10:02 IniciaWsApi
+29/08/2003 15:11:46 EventoSockAccept NewIndex: 1 NuevoSock: 544 IP: 127.0.0.1
+29/08/2003 15:12:22 WndProc:FD_CLOSE:N=-1:Err=0
+29/08/2003 15:37:18 IniciaWsApi
+29/08/2003 15:37:55 EventoSockAccept NewIndex: 1 NuevoSock: 860 IP: 127.0.0.1
+29/08/2003 15:45:07 IniciaWsApi
+29/08/2003 15:46:52 IniciaWsApi
+29/08/2003 15:47:12 EventoSockAccept NewIndex: 1 NuevoSock: 700 IP: 127.0.0.1
+29/08/2003 15:47:46 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 15:47:46 EventoSockAccept NewIndex: 1 NuevoSock: 732 IP: 127.0.0.1
+29/08/2003 15:49:37 WndProc:FD_CLOSE:N=-1:Err=0
+29/08/2003 15:49:40 EventoSockAccept NewIndex: 1 NuevoSock: 724 IP: 127.0.0.1
+29/08/2003 15:51:32 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 15:53:43 IniciaWsApi
+29/08/2003 15:54:02 EventoSockAccept NewIndex: 1 NuevoSock: 724 IP: 127.0.0.1
+29/08/2003 15:54:17 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 15:54:31 EventoSockAccept NewIndex: 1 NuevoSock: 736 IP: 127.0.0.1
+29/08/2003 15:57:01 WndProc:FD_CLOSE:N=-1:Err=0
+29/08/2003 15:57:17 EventoSockAccept NewIndex: 1 NuevoSock: 772 IP: 127.0.0.1
+29/08/2003 15:57:34 EventoSockAccept NewIndex: 2 NuevoSock: 776 IP: 192.168.0.93
+29/08/2003 16:01:06 EventoSockAccept NewIndex: 2 NuevoSock: 624 IP: 192.168.0.93
+29/08/2003 16:01:20 WndProc:FD_CLOSE:N=-1:Err=0
+29/08/2003 16:01:27 EventoSockAccept NewIndex: 1 NuevoSock: 740 IP: 127.0.0.1
+29/08/2003 16:02:27 WndProc:FD_CLOSE:N=2:Err=10053
+29/08/2003 16:03:25 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 16:04:51 LimpiaWsApi
+29/08/2003 16:47:38 IniciaWsApi
+29/08/2003 16:47:52 EventoSockAccept NewIndex: 1 NuevoSock: 444 IP: 127.0.0.1
+29/08/2003 16:48:33 EventoSockAccept NewIndex: 2 NuevoSock: 416 IP: 192.168.0.93
+29/08/2003 16:48:34 WndProc:FD_CLOSE:N=2:Err=0
+29/08/2003 16:48:44 EventoSockAccept NewIndex: 2 NuevoSock: 492 IP: 192.168.0.93
+29/08/2003 16:53:59 EventoSockAccept NewIndex: 1 NuevoSock: 516 IP: 192.168.0.93
+29/08/2003 17:00:10 LimpiaWsApi
+29/08/2003 17:02:03 IniciaWsApi
+29/08/2003 17:02:44 EventoSockAccept NewIndex: 1 NuevoSock: 444 IP: 192.168.0.93
+29/08/2003 17:12:46 EventoSockAccept NewIndex: 1 NuevoSock: 476 IP: 192.168.0.93
+29/08/2003 17:14:56 LimpiaWsApi
+29/08/2003 17:16:22 IniciaWsApi
+29/08/2003 17:17:46 EventoSockAccept NewIndex: 1 NuevoSock: 436 IP: 192.168.0.93
+29/08/2003 17:18:46 EventoSockAccept NewIndex: 1 NuevoSock: 476 IP: 192.168.0.93
+29/08/2003 17:19:23 EventoSockAccept NewIndex: 1 NuevoSock: 468 IP: 192.168.0.93
+29/08/2003 17:19:35 EventoSockAccept NewIndex: 2 NuevoSock: 484 IP: 127.0.0.1
+29/08/2003 17:19:59 EventoSockAccept NewIndex: 1 NuevoSock: 436 IP: 192.168.0.93
+29/08/2003 17:20:15 WndProc:FD_CLOSE:N=-1:Err=0
+29/08/2003 17:20:24 EventoSockAccept NewIndex: 1 NuevoSock: 476 IP: 127.0.0.1
+29/08/2003 17:20:31 EventoSockAccept NewIndex: 2 NuevoSock: 496 IP: 192.168.0.93
+29/08/2003 17:21:57 WndProc:FD_CLOSE:N=-1:Err=0
+29/08/2003 17:23:11 EventoSockAccept NewIndex: 1 NuevoSock: 480 IP: 127.0.0.1
+29/08/2003 17:29:21 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 17:31:04 EventoSockAccept NewIndex: 1 NuevoSock: 436 IP: 192.168.0.93
+29/08/2003 17:31:04 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 17:31:09 EventoSockAccept NewIndex: 1 NuevoSock: 492 IP: 192.168.0.93
+29/08/2003 17:33:35 EventoSockAccept NewIndex: 1 NuevoSock: 484 IP: 192.168.0.93
+29/08/2003 17:36:33 EventoSockAccept NewIndex: 2 NuevoSock: 436 IP: 127.0.0.1
+29/08/2003 17:37:26 EventoSockAccept NewIndex: 1 NuevoSock: 504 IP: 192.168.0.93
+29/08/2003 17:37:52 WndProc:FD_CLOSE:N=-1:Err=0
+29/08/2003 17:46:55 EventoSockAccept NewIndex: 1 NuevoSock: 488 IP: 127.0.0.1
+29/08/2003 17:55:37 WndProc:FD_CLOSE:N=-1:Err=0
+29/08/2003 17:57:29 EventoSockAccept NewIndex: 1 NuevoSock: 496 IP: 127.0.0.1
+29/08/2003 17:58:13 WndProc:FD_CLOSE:N=-1:Err=0
+29/08/2003 17:59:51 EventoSockAccept NewIndex: 1 NuevoSock: 492 IP: 127.0.0.1
+29/08/2003 18:01:18 EventoSockAccept NewIndex: 2 NuevoSock: 476 IP: 192.168.0.93
+29/08/2003 18:03:37 EventoSockAccept NewIndex: 2 NuevoSock: 516 IP: 192.168.0.93
+29/08/2003 18:05:49 WndProc:FD_CLOSE:N=-1:Err=0
+29/08/2003 18:05:55 EventoSockAccept NewIndex: 1 NuevoSock: 484 IP: 192.168.0.93
+29/08/2003 18:06:41 EventoSockAccept NewIndex: 2 NuevoSock: 472 IP: 127.0.0.1
+29/08/2003 18:06:46 WndProc:FD_CLOSE:N=2:Err=0
+29/08/2003 18:06:46 EventoSockAccept NewIndex: 2 NuevoSock: 476 IP: 127.0.0.1
+29/08/2003 18:08:48 WndProc:FD_CLOSE:N=2:Err=0
+29/08/2003 18:09:09 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 18:10:43 LimpiaWsApi
+29/08/2003 18:12:39 IniciaWsApi
+29/08/2003 18:13:36 EventoSockAccept NewIndex: 1 NuevoSock: 444 IP: 192.168.0.93
+29/08/2003 18:13:45 EventoSockAccept NewIndex: 2 NuevoSock: 484 IP: 127.0.0.1
+29/08/2003 18:14:00 WndProc:FD_CLOSE:N=2:Err=10053
+29/08/2003 18:14:08 LimpiaWsApi
+29/08/2003 18:15:34 IniciaWsApi
+29/08/2003 18:15:40 EventoSockAccept NewIndex: 1 NuevoSock: 752 IP: 192.168.0.93
+29/08/2003 18:15:49 EventoSockAccept NewIndex: 2 NuevoSock: 596 IP: 127.0.0.1
+29/08/2003 18:19:08 WndProc:FD_CLOSE:N=2:Err=0
+29/08/2003 18:19:40 WndProc:FD_CLOSE:N=1:Err=10053
+29/08/2003 18:29:40 IniciaWsApi
+29/08/2003 18:35:15 IniciaWsApi
+29/08/2003 18:38:37 EventoSockAccept NewIndex: 1 NuevoSock: 952 IP: 24.232.45.12
+29/08/2003 18:38:37 WndProc:FD_CLOSE:N=1:Err=10053
+29/08/2003 18:38:37 EventoSockAccept NewIndex: 1 NuevoSock: 952 IP: 24.232.45.12
+29/08/2003 18:39:40 EventoSockAccept NewIndex: 1 NuevoSock: 1020 IP: 24.232.45.12
+29/08/2003 18:39:48 EventoSockAccept NewIndex: 2 NuevoSock: 672 IP: 192.168.0.93
+29/08/2003 18:44:15 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 18:53:13 EventoSockAccept NewIndex: 1 NuevoSock: 672 IP: 192.168.0.93
+29/08/2003 18:53:17 EventoSockAccept NewIndex: 1 NuevoSock: 556 IP: 192.168.0.93
+29/08/2003 18:53:18 EventoSockAccept NewIndex: 1 NuevoSock: 776 IP: 192.168.0.93
+29/08/2003 18:53:20 EventoSockAccept NewIndex: 1 NuevoSock: 672 IP: 192.168.0.93
+29/08/2003 18:53:22 EventoSockAccept NewIndex: 1 NuevoSock: 556 IP: 192.168.0.93
+29/08/2003 18:53:24 EventoSockAccept NewIndex: 1 NuevoSock: 776 IP: 192.168.0.93
+29/08/2003 18:53:26 EventoSockAccept NewIndex: 1 NuevoSock: 672 IP: 192.168.0.93
+29/08/2003 18:53:55 EventoSockAccept NewIndex: 1 NuevoSock: 976 IP: 192.168.0.93
+29/08/2003 18:57:40 WndProc:FD_CLOSE:N=1:Err=10053
+29/08/2003 19:02:01 LimpiaWsApi
+29/08/2003 19:19:00 IniciaWsApi
+29/08/2003 19:21:07 EventoSockAccept NewIndex: 1 NuevoSock: 304 IP: 192.168.0.93
+29/08/2003 19:21:40 EventoSockAccept NewIndex: 2 NuevoSock: 992 IP: 127.0.0.1
+29/08/2003 19:22:16 EventoSockAccept NewIndex: 1 NuevoSock: 976 IP: 192.168.0.93
+29/08/2003 19:22:28 EventoSockAccept NewIndex: 2 NuevoSock: 992 IP: 127.0.0.1
+29/08/2003 19:24:14 EventoSockAccept NewIndex: 3 NuevoSock: 964 IP: 200.55.80.30
+29/08/2003 19:25:05 WndProc:FD_CLOSE:N=-1:Err=0
+29/08/2003 19:25:10 EventoSockAccept NewIndex: 2 NuevoSock: 1004 IP: 127.0.0.1
+29/08/2003 19:25:34 EventoSockAccept NewIndex: 1 NuevoSock: 680 IP: 192.168.0.93
+29/08/2003 19:30:23 WndProc:FD_CLOSE:N=-1:Err=0
+29/08/2003 19:33:20 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 19:33:38 LimpiaWsApi
+29/08/2003 20:08:04 IniciaWsApi
+29/08/2003 20:08:37 EventoSockAccept NewIndex: 1 NuevoSock: 716 IP: 127.0.0.1
+29/08/2003 20:10:45 EventoSockAccept NewIndex: 1 NuevoSock: 684 IP: 127.0.0.1
+29/08/2003 20:11:36 WndProc:FD_CLOSE:N=1:Err=10053
+29/08/2003 20:11:46 LimpiaWsApi
+29/08/2003 20:23:47 IniciaWsApi
+29/08/2003 20:24:17 EventoSockAccept NewIndex: 1 NuevoSock: 1032 IP: 127.0.0.1
+29/08/2003 20:24:21 EventoSockAccept NewIndex: 2 NuevoSock: 1004 IP: 127.0.0.1
+29/08/2003 20:24:24 EventoSockAccept NewIndex: 3 NuevoSock: 996 IP: 127.0.0.1
+29/08/2003 20:24:25 EventoSockAccept NewIndex: 4 NuevoSock: 992 IP: 127.0.0.1
+29/08/2003 20:24:25 EventoSockAccept NewIndex: 5 NuevoSock: 1004 IP: 127.0.0.1
+29/08/2003 20:24:26 EventoSockAccept NewIndex: 6 NuevoSock: 996 IP: 127.0.0.1
+29/08/2003 20:24:55 EventoSockAccept NewIndex: 7 NuevoSock: 992 IP: 127.0.0.1
+29/08/2003 20:24:56 EventoSockAccept NewIndex: 8 NuevoSock: 1004 IP: 127.0.0.1
+29/08/2003 20:24:57 EventoSockAccept NewIndex: 9 NuevoSock: 996 IP: 127.0.0.1
+29/08/2003 20:25:00 EventoSockAccept NewIndex: 10 NuevoSock: 992 IP: 127.0.0.1
+29/08/2003 20:25:14 WndProc:FD_CLOSE:N=4:Err=0
+29/08/2003 20:25:42 EventoSockAccept NewIndex: 4 NuevoSock: 1016 IP: 127.0.0.1
+29/08/2003 20:27:14 WndProc:FD_CLOSE:N=-1:Err=0
+29/08/2003 20:28:02 EventoSockAccept NewIndex: 4 NuevoSock: 596 IP: 127.0.0.1
+29/08/2003 20:28:48 WndProc:FD_CLOSE:N=-1:Err=0
+29/08/2003 20:28:54 EventoSockAccept NewIndex: 4 NuevoSock: 992 IP: 127.0.0.1
+29/08/2003 20:29:18 WndProc:FD_CLOSE:N=4:Err=10053
+29/08/2003 20:32:04 IniciaWsApi
+29/08/2003 20:32:26 EventoSockAccept NewIndex: 1 NuevoSock: 724 IP: 127.0.0.1
+29/08/2003 20:36:35 IniciaWsApi
+29/08/2003 20:41:36 EventoSockAccept NewIndex: 1 NuevoSock: 904 IP: 127.0.0.1
+29/08/2003 20:41:39 EventoSockAccept NewIndex: 1 NuevoSock: 1008 IP: 127.0.0.1
+29/08/2003 20:44:56 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 21:02:34 IniciaWsApi
+29/08/2003 21:04:36 EventoSockAccept NewIndex: 1 NuevoSock: 976 IP: 127.0.0.1
+29/08/2003 21:04:41 EventoSockAccept NewIndex: 1 NuevoSock: 992 IP: 127.0.0.1
+29/08/2003 21:05:11 WndProc:FD_CLOSE:N=1:Err=0
+29/08/2003 21:07:02 IniciaWsApi
+29/08/2003 21:08:03 EventoSockAccept NewIndex: 1 NuevoSock: 1016 IP: 127.0.0.1
+29/08/2003 21:08:17 EventoSockAccept NewIndex: 1 NuevoSock: 684 IP: 127.0.0.1
+29/08/2003 21:08:18 WndProc:FD_CLOSE:N=-1:Err=0
+29/08/2003 21:08:21 EventoSockAccept NewIndex: 1 NuevoSock: 312 IP: 127.0.0.1
+29/08/2003 21:08:34 EventoSockAccept NewIndex: 2 NuevoSock: 1016 IP: 127.0.0.1
+29/08/2003 21:08:35 WndProc:FD_CLOSE:N=-1:Err=0
+29/08/2003 21:08:45 EventoSockAccept NewIndex: 1 NuevoSock: 1032 IP: 127.0.0.1
+29/08/2003 21:09:05 EventoSockAccept NewIndex: 1 NuevoSock: 308 IP: 127.0.0.1
+29/08/2003 21:09:15 WndProc:FD_CLOSE:N=1:Err=0
+30/08/2003 14:13:13 IniciaWsApi
+30/08/2003 14:21:36 EventoSockAccept NewIndex: 1 NuevoSock: 576 IP: 127.0.0.1
+30/08/2003 14:22:03 EventoSockAccept NewIndex: 2 NuevoSock: 988 IP: 127.0.0.1
+30/08/2003 14:22:24 EventoSockAccept NewIndex: 2 NuevoSock: 932 IP: 127.0.0.1
+30/08/2003 14:22:38 EventoSockAccept NewIndex: 3 NuevoSock: 984 IP: 127.0.0.1
+30/08/2003 14:22:38 WndProc:FD_CLOSE:N=-1:Err=0
+30/08/2003 14:22:48 EventoSockAccept NewIndex: 2 NuevoSock: 968 IP: 127.0.0.1
+30/08/2003 14:24:00 WndProc:FD_CLOSE:N=-1:Err=0
+30/08/2003 14:24:03 EventoSockAccept NewIndex: 2 NuevoSock: 576 IP: 127.0.0.1
+30/08/2003 14:24:57 WndProc:FD_CLOSE:N=2:Err=0
+30/08/2003 14:24:59 EventoSockAccept NewIndex: 1 NuevoSock: 988 IP: 127.0.0.1
+30/08/2003 14:25:59 WndProc:FD_CLOSE:N=-1:Err=0
+30/08/2003 14:26:28 EventoSockAccept NewIndex: 1 NuevoSock: 968 IP: 127.0.0.1
+30/08/2003 14:27:50 WndProc:FD_CLOSE:N=1:Err=0
+30/08/2003 14:28:18 LimpiaWsApi
+30/08/2003 15:06:42 IniciaWsApi
+30/08/2003 15:07:21 EventoSockAccept NewIndex: 1 NuevoSock: 744 IP: 192.168.0.93
+30/08/2003 15:08:21 EventoSockAccept NewIndex: 1 NuevoSock: 636 IP: 127.0.0.1
+30/08/2003 15:08:36 EventoSockAccept NewIndex: 2 NuevoSock: 580 IP: 192.168.0.93
+30/08/2003 15:08:47 WndProc:FD_CLOSE:N=1:Err=0
+30/08/2003 15:09:11 EventoSockAccept NewIndex: 1 NuevoSock: 632 IP: 127.0.0.1
+30/08/2003 15:09:26 EventoSockAccept NewIndex: 2 NuevoSock: 1012 IP: 192.168.0.93
+30/08/2003 15:09:52 WndProc:FD_CLOSE:N=-1:Err=0
+30/08/2003 15:13:18 EventoSockAccept NewIndex: 1 NuevoSock: 308 IP: 127.0.0.1
+30/08/2003 15:14:22 WndProc:FD_CLOSE:N=-1:Err=0
+30/08/2003 15:15:06 EventoSockAccept NewIndex: 1 NuevoSock: 1012 IP: 127.0.0.1
+30/08/2003 15:17:08 WndProc:FD_CLOSE:N=-1:Err=0
+30/08/2003 15:19:14 EventoSockAccept NewIndex: 1 NuevoSock: 632 IP: 127.0.0.1
+30/08/2003 15:19:34 EventoSockAccept NewIndex: 2 NuevoSock: 588 IP: 192.168.0.93
+30/08/2003 15:20:58 EventoSockAccept NewIndex: 2 NuevoSock: 636 IP: 192.168.0.93
+30/08/2003 15:21:24 EventoSockAccept NewIndex: 1 NuevoSock: 744 IP: 127.0.0.1
+30/08/2003 15:22:25 WndProc:FD_CLOSE:N=-1:Err=0
+30/08/2003 15:22:35 EventoSockAccept NewIndex: 2 NuevoSock: 536 IP: 192.168.0.93
+30/08/2003 15:23:11 EventoSockAccept NewIndex: 2 NuevoSock: 588 IP: 192.168.0.93
+30/08/2003 15:23:26 WndProc:FD_CLOSE:N=-1:Err=0
+30/08/2003 15:23:31 EventoSockAccept NewIndex: 1 NuevoSock: 580 IP: 127.0.0.1
+30/08/2003 15:24:48 WndProc:FD_CLOSE:N=-1:Err=0
+30/08/2003 15:28:24 IniciaWsApi
+30/08/2003 15:28:43 EventoSockAccept NewIndex: 1 NuevoSock: 652 IP: 127.0.0.1
+30/08/2003 15:29:19 EventoSockAccept NewIndex: 2 NuevoSock: 948 IP: 192.168.0.93
+30/08/2003 15:30:20 WndProc:FD_CLOSE:N=1:Err=10053
+30/08/2003 15:30:29 WndProc:FD_CLOSE:N=2:Err=10053
+30/08/2003 16:26:43 IniciaWsApi
+30/08/2003 16:27:11 EventoSockAccept NewIndex: 1 NuevoSock: 976 IP: 127.0.0.1
+30/08/2003 16:29:29 WndProc:FD_CLOSE:N=1:Err=0
+02/09/2003 20:43:10 IniciaWsApi
+02/09/2003 20:44:09 EventoSockAccept NewIndex: 1 NuevoSock: 976 IP: 127.0.0.1
+02/09/2003 20:46:19 WndProc:FD_CLOSE:N=1:Err=0
+04/09/2003 17:24:26 LimpiaWsApi
+04/09/2003 18:57:50 IniciaWsApi
+04/09/2003 18:58:11 EventoSockAccept NewIndex: 1 NuevoSock: 1008 IP: 127.0.0.1
+04/09/2003 18:58:59 WndProc:FD_CLOSE:N=-1:Err=0
+04/09/2003 18:59:53 EventoSockAccept NewIndex: 1 NuevoSock: 912 IP: 127.0.0.1
+04/09/2003 19:03:33 WndProc:FD_CLOSE:N=-1:Err=0
+05/09/2003 17:37:47 IniciaWsApi
+05/09/2003 17:38:16 EventoSockAccept NewIndex: 1 NuevoSock: 484 IP: 127.0.0.1
+05/09/2003 17:39:24 WndProc:FD_CLOSE:N=1:Err=0
+05/09/2003 17:47:04 IniciaWsApi
+05/09/2003 17:49:32 LimpiaWsApi
+05/09/2003 17:51:48 IniciaWsApi
+05/09/2003 17:59:12 EventoSockAccept NewIndex: 1 NuevoSock: 884 IP: 127.0.0.1
+05/09/2003 18:01:53 WndProc:FD_CLOSE:N=-1:Err=0
+05/09/2003 18:01:59 EventoSockAccept NewIndex: 1 NuevoSock: 648 IP: 127.0.0.1
+05/09/2003 18:02:36 WndProc:FD_CLOSE:N=1:Err=0
+05/09/2003 18:02:44 LimpiaWsApi
+05/10/2003 16:46:57 IniciaWsApi
+05/10/2003 16:52:34 IniciaWsApi
+05/10/2003 16:53:39 EventoSockAccept NewIndex: 1 NuevoSock: 628 IP: 127.0.0.1
+05/10/2003 16:56:28 WndProc:FD_CLOSE:N=1:Err=10053
+05/10/2003 17:02:45 EventoSockAccept NewIndex: 1 NuevoSock: 728 IP: 127.0.0.1
+05/10/2003 17:04:58 WndProc:FD_CLOSE:N=1:Err=0
+05/10/2003 17:07:10 EventoSockAccept NewIndex: 1 NuevoSock: 628 IP: 127.0.0.1
+05/10/2003 17:11:45 WndProc:FD_CLOSE:N=-1:Err=0
+05/10/2003 17:12:11 EventoSockAccept NewIndex: 1 NuevoSock: 732 IP: 127.0.0.1
+05/10/2003 17:13:22 WndProc:FD_CLOSE:N=-1:Err=0
+05/10/2003 17:13:52 EventoSockAccept NewIndex: 1 NuevoSock: 728 IP: 127.0.0.1
+05/10/2003 17:16:45 WndProc:FD_CLOSE:N=-1:Err=0
+05/10/2003 17:17:05 EventoSockAccept NewIndex: 1 NuevoSock: 724 IP: 127.0.0.1
+05/10/2003 17:17:21 WndProc:FD_CLOSE:N=1:Err=0
+05/10/2003 17:26:28 EventoSockAccept NewIndex: 1 NuevoSock: 724 IP: 127.0.0.1
+05/10/2003 17:27:30 WndProc:FD_CLOSE:N=1:Err=0
+05/10/2003 17:28:02 EventoSockAccept NewIndex: 1 NuevoSock: 708 IP: 127.0.0.1
+05/10/2003 17:28:12 WndProc:FD_CLOSE:N=1:Err=0
+05/10/2003 17:35:17 EventoSockAccept NewIndex: 1 NuevoSock: 752 IP: 127.0.0.1
+05/10/2003 17:36:21 WndProc:FD_CLOSE:N=1:Err=0
+05/10/2003 18:22:14 IniciaWsApi
+05/10/2003 18:23:10 EventoSockAccept NewIndex: 1 NuevoSock: 720 IP: 127.0.0.1
+05/10/2003 18:25:18 WndProc:FD_CLOSE:N=1:Err=0
+05/10/2003 18:27:13 EventoSockAccept NewIndex: 1 NuevoSock: 308 IP: 127.0.0.1
+05/10/2003 18:27:23 WndProc:FD_CLOSE:N=1:Err=0
+05/10/2003 18:28:04 EventoSockAccept NewIndex: 1 NuevoSock: 592 IP: 127.0.0.1
+05/10/2003 18:28:10 WndProc:FD_CLOSE:N=1:Err=0
+05/10/2003 18:34:22 EventoSockAccept NewIndex: 1 NuevoSock: 532 IP: 127.0.0.1
+05/10/2003 18:34:43 WndProc:FD_CLOSE:N=1:Err=0

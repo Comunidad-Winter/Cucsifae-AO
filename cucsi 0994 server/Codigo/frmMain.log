@@ -1,0 +1,7 @@
+Línea 121: la clase RichTextLib.RichTextBox del control rtfGmMsg no era una clase de control cargada.
+Línea 127: el nombre de la propiedad _ExtentX de rtfGmMsg no es válido.
+Línea 128: el nombre de la propiedad _ExtentY de rtfGmMsg no es válido.
+Línea 129: el nombre de la propiedad _Version de rtfGmMsg no es válido.
+Línea 131: el nombre de la propiedad ReadOnly de rtfGmMsg no es válido.
+Línea 132: el nombre de la propiedad ScrollBars de rtfGmMsg no es válido.
+Línea 133: el nombre de la propiedad TextRTF de rtfGmMsg no es válido.

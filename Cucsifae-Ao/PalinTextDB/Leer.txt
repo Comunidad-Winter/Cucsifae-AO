@@ -1,0 +1,6 @@
+Los GrhXXX.txt son los archivos donde se deben indexar los nuevos gráficos que se deseén incorporar al juego.
+
+El programa GeneradorBD.exe crea el archivo graficos.ind desde los archivos .txt. Este programa se puede configurar para que utilice multiples archivos mediante el Grh.ini
+
+
+Gulfas Morgolock

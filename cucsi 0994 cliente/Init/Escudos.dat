@@ -1,0 +1,51 @@
+[INIT]
+
+NumEscudos=9
+
+[ESC1]
+Dir1=4727 'norte
+Dir2=4729
+Dir3=4726
+Dir4=4728 'sur
+
+[ESC3] 'Escudo Divino
+Dir1=4809 'norte
+Dir2=4811
+Dir3=4808
+Dir4=4810 'sur
+
+[ESC4] 'Escudo Dorado
+Dir1=4835 'norte
+Dir2=4837
+Dir3=4834
+Dir4=4836 'sur
+
+[ESC5] 'Escudo Plata
+Dir1=4965 'norte
+Dir2=4967
+Dir3=4964
+Dir4=4966 'sur
+
+[ESC6] 'Escudo Bronce
+Dir1=4991 'norte
+Dir2=4993
+Dir3=4990
+Dir4=4992 'sur
+
+[ESC7] 'Escudo Del Imperio
+Dir1=5017 'norte
+Dir2=5019
+Dir3=5016
+Dir4=5018 'sur
+
+[ESC8] 'Escudo De Madera
+Dir1=5043 'norte
+Dir2=5045
+Dir3=5042
+Dir4=5044 'sur
+
+[ESC9] 'Escudo De Oscuro
+Dir1=12376 'norte
+Dir2=12378
+Dir3=12375
+Dir4=12377 'sur

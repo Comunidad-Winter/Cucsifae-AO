@@ -1,0 +1,83 @@
+======================================================
+      NOLAND STUDIOS: .CHR Analizator (Charana)
+======================================================
+
+	  Copyright ©2001 Noland Studios
+
+Cualquier duda, comentario o problema dirigirse a
+matiasp@noland-studios.com.ar
+
+Este programa es considerado interno y está prohibido
+su uso a personas no autorizadas.
+
+La(s) version(es) documentadas corresponden desde la
+v1.5 en adelante. Las versiones anteriores a esta no
+serán documentadas.
+
+--------------
+Introducción
+--------------
+
+Charana es un pequeño programa interno Server Side
+creado con el objetivo de poder concretar un mejor
+managment de los archivos .CHR manejados por Argentum
+Online.
+Dada la flexibilidad de este programa, si se configura
+correctamente puede ser utilizado con otros archivos
+similiares de otros juegos/aplicaciones.
+
+---------------
+Funcionalidad
+---------------
+Las funciones basicas de Charana son las de mostrar
+archivos .CHR, buscar y/o reemplazar cadenas
+numericas o alfanumericas dentro de estos.
+
+El cuadro de texto para buscar cadenas tiene una
+funcionalidad muy especial. Antes de comenzar la
+busqueda, Charana preprocesa el primer caracter
+de la cadena en busqueda de "tokens" los cuales
+serán utilizados para modificar los resultados de
+la busqueda matematicamente. Si la cadena posee
+cualquiera de estos simbolos, automaticamente serán
+tomados en cuenta, es por eso que hay que tener
+cuidado con lo que se usa, aunque los simbolso son
+muy especificos y en el 99.9% no causaran problemas.
+
+	= : Busca cadenas numericas iguales a
+	! : Busca cadenas numericas distintas a
+	> : Busca cadenas numericas mayores a
+	< : Busca cadenas numericas menores a
+
+Estos simbolos solo pueden ser validamente utilizados
+en cadenas numericas.
+
+Para una busqueda alfanumerica, se deben omitir los
+anteriormente mencionados tokens. El metodo de busqueda
+es bastante conveniente, Charana busca cadenas de texto
+en las que esté incluida la seleccionada, es por eso
+que modificadores como ? o * no son necesarios ya que
+son utilizados automaticamente.
+
+Otras funciones son:
+	Modificar valores de las variables en el .CHR
+	Fácil navegación del .CHR con "bookmarks" incluidos
+	Habilidad para buscar nombre de archivos
+
+------------------
+Revisiones
+------------------
+
+v1.6:
+	- Agregado boton Detener para interrumpir la acción
+	  que se está llevando a cabo.
+	- Modificado control de mostrado de archivos CHR,
+	  ahora presenta un gridline reloco y soporta más de
+	  32767 archivos.
+	- Agregada funcionalidad para agregar archivos a la
+	  ventana de resultados sin necesidad de buscarlos.
+	- Agregada funcionalidad para borrar archivos.
+v1.5:
+	Primer versión documentada
+
+=========================================================

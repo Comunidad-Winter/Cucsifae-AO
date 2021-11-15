@@ -1,0 +1,630 @@
+[Graphics]
+
+'=================================================================
+'FOGATA
+'=================================================================
+Grh315=1-538-0-0-32-32 'Fogata frame 1
+Grh316=1-539-0-0-32-32 'Fogata frame 2
+Grh317=1-540-0-0-32-32 'Fogata frame 3
+Grh318=1-541-0-0-32-32 'Fogata frame 4
+Grh319=1-542-0-0-32-32 'Fogata frame 5
+Grh320=1-543-0-0-32-32 'Fogata frame 6
+Grh321=1-544-0-0-32-32 'Fogata frame 7
+Grh322=1-545-0-0-32-32 'Fogata frame 8
+Grh323=1-546-0-0-32-32 'Fogata frame 9
+
+
+'=================================================================
+'AGUA
+'=================================================================
+
+'<----------------FRAME1-------------->
+	Grh324=1-20-0-0-32-32
+	Grh325=1-20-32-0-32-32
+	Grh326=1-20-64-0-32-32
+	Grh327=1-20-96-0-32-32
+
+	Grh328=1-20-0-32-32-32
+	Grh329=1-20-32-32-32-32
+	Grh330=1-20-64-32-32-32
+	Grh331=1-20-96-32-32-32
+
+	Grh332=1-20-0-64-32-32
+	Grh333=1-20-32-64-32-32
+	Grh334=1-20-64-64-32-32
+	Grh335=1-20-96-64-32-32
+
+	Grh336=1-20-0-96-32-32
+	Grh337=1-20-32-96-32-32
+	Grh338=1-20-64-96-32-32
+	Grh339=1-20-96-96-32-32
+'<----------------------------------->
+
+'<----------------FRAME2-------------->
+	Grh340=1-20-128-0-32-32
+	Grh341=1-20-160-0-32-32
+	Grh342=1-20-192-0-32-32
+	Grh343=1-20-224-0-32-32
+
+	Grh344=1-20-128-32-32-32
+	Grh345=1-20-160-32-32-32
+	Grh346=1-20-192-32-32-32
+	Grh347=1-20-224-32-32-32
+
+	Grh348=1-20-128-64-32-32
+	Grh349=1-20-160-64-32-32
+	Grh350=1-20-192-64-32-32
+	Grh351=1-20-224-64-32-32
+
+	Grh352=1-20-128-96-32-32
+	Grh353=1-20-160-96-32-32
+	Grh354=1-20-192-96-32-32
+	Grh355=1-20-224-96-32-32
+'<----------------------------------->
+
+'<----------------FRAME3-------------->
+	Grh356=1-20-256-0-32-32
+	Grh357=1-20-288-0-32-32
+	Grh358=1-20-320-0-32-32
+	Grh359=1-20-352-0-32-32
+
+	Grh360=1-20-256-32-32-32
+	Grh361=1-20-288-32-32-32
+	Grh362=1-20-320-32-32-32
+	Grh363=1-20-352-32-32-32
+
+	Grh364=1-20-256-64-32-32
+	Grh365=1-20-288-64-32-32
+	Grh366=1-20-320-64-32-32
+	Grh367=1-20-352-64-32-32
+
+	Grh368=1-20-256-96-32-32
+	Grh369=1-20-288-96-32-32
+	Grh370=1-20-320-96-32-32
+	Grh371=1-20-352-96-32-32
+'<----------------------------------->
+
+'<----------------FRAME4-------------->
+	Grh372=1-20-0-128-32-32
+	Grh373=1-20-32-128-32-32
+	Grh374=1-20-64-128-32-32
+	Grh375=1-20-96-128-32-32
+
+	Grh376=1-20-0-160-32-32
+	Grh377=1-20-32-160-32-32
+	Grh378=1-20-64-160-32-32
+	Grh379=1-20-96-160-32-32
+
+	Grh380=1-20-0-192-32-32
+	Grh381=1-20-32-192-32-32
+	Grh382=1-20-64-192-32-32
+	Grh383=1-20-96-192-32-32
+
+	Grh384=1-20-0-224-32-32
+	Grh385=1-20-32-224-32-32
+	Grh386=1-20-64-224-32-32
+	Grh387=1-20-96-224-32-32
+'<----------------------------------->
+
+'<----------------FRAME5-------------->
+	Grh388=1-20-128-128-32-32
+	Grh389=1-20-160-128-32-32
+	Grh390=1-20-192-128-32-32
+	Grh391=1-20-224-128-32-32
+
+	Grh392=1-20-128-160-32-32
+	Grh393=1-20-160-160-32-32
+	Grh394=1-20-192-160-32-32
+	Grh395=1-20-224-160-32-32
+
+	Grh396=1-20-128-192-32-32
+	Grh397=1-20-160-192-32-32
+	Grh398=1-20-192-192-32-32
+	Grh399=1-20-224-192-32-32
+
+	Grh400=1-20-128-224-32-32
+	Grh401=1-20-160-224-32-32
+	Grh402=1-20-192-224-32-32
+	Grh403=1-20-224-224-32-32
+'<----------------------------------->
+
+'<----------------FRAME6-------------->
+	Grh404=1-20-256-128-32-32
+	Grh405=1-20-288-128-32-32
+	Grh406=1-20-320-128-32-32
+	Grh407=1-20-352-128-32-32
+
+	Grh408=1-20-256-160-32-32
+	Grh409=1-20-288-160-32-32
+	Grh410=1-20-320-160-32-32
+	Grh411=1-20-352-160-32-32
+
+	Grh412=1-20-256-192-32-32
+	Grh413=1-20-288-192-32-32
+	Grh414=1-20-320-192-32-32
+	Grh415=1-20-352-192-32-32
+
+	Grh416=1-20-256-224-32-32
+	Grh417=1-20-288-224-32-32
+	Grh418=1-20-320-224-32-32
+	Grh419=1-20-352-224-32-32
+'<----------------------------------->
+
+'<----------------FRAME7-------------->
+	Grh420=1-20-0-256-32-32
+	Grh421=1-20-32-256-32-32
+	Grh422=1-20-64-256-32-32
+	Grh423=1-20-96-256-32-32
+
+	Grh424=1-20-0-288-32-32
+	Grh425=1-20-32-288-32-32
+	Grh426=1-20-64-288-32-32
+	Grh427=1-20-96-288-32-32
+
+	Grh428=1-20-0-320-32-32
+	Grh429=1-20-32-320-32-32
+	Grh430=1-20-64-320-32-32
+	Grh431=1-20-96-320-32-32
+
+	Grh432=1-20-0-352-32-32
+	Grh433=1-20-32-352-32-32
+	Grh434=1-20-64-352-32-32
+	Grh435=1-20-96-352-32-32
+'<----------------------------------->
+
+'<----------------FRAME8-------------->
+	Grh436=1-20-128-256-32-32
+	Grh437=1-20-160-256-32-32
+	Grh438=1-20-192-256-32-32
+	Grh439=1-20-224-256-32-32
+
+	Grh440=1-20-128-288-32-32
+	Grh441=1-20-160-288-32-32
+	Grh442=1-20-192-288-32-32
+	Grh443=1-20-224-288-32-32
+
+	Grh444=1-20-128-320-32-32
+	Grh445=1-20-160-320-32-32
+	Grh446=1-20-192-320-32-32
+	Grh447=1-20-224-320-32-32
+
+	Grh448=1-20-128-352-32-32
+	Grh449=1-20-160-352-32-32
+	Grh450=1-20-192-352-32-32
+	Grh451=1-20-224-352-32-32
+'<----------------------------------->
+
+'<----------------FRAME9-------------->
+	Grh452=1-20-256-256-32-32
+	Grh453=1-20-288-256-32-32
+	Grh454=1-20-320-256-32-32
+	Grh455=1-20-352-256-32-32
+
+	Grh456=1-20-256-288-32-32
+	Grh457=1-20-288-288-32-32
+	Grh458=1-20-320-288-32-32
+	Grh459=1-20-352-288-32-32
+
+	Grh460=1-20-256-320-32-32
+	Grh461=1-20-288-320-32-32
+	Grh462=1-20-320-320-32-32
+	Grh463=1-20-352-320-32-32
+
+	Grh464=1-20-256-352-32-32
+	Grh465=1-20-288-352-32-32
+	Grh466=1-20-320-352-32-32
+	Grh467=1-20-352-352-32-32
+'<----------------------------------->
+
+'<------------------AGUA ANIMADA PUUUFFFF!!!------------------>
+	Grh1505=4-324-340-356-372-4
+	Grh1506=4-325-341-357-373-4
+	Grh1507=4-326-342-358-374-4
+	Grh1508=4-327-343-359-375-4
+
+	Grh1509=4-328-344-360-376-4
+	Grh1510=4-329-345-361-377-4
+	Grh1511=4-330-346-362-378-4
+	Grh1512=4-331-347-363-379-4
+
+	Grh1513=4-332-348-364-380-4
+	Grh1514=4-333-349-365-381-4
+	Grh1515=4-334-350-366-382-4
+	Grh1516=4-335-351-367-383-4
+
+	Grh1517=4-336-352-368-384-4
+	Grh1518=4-337-353-369-385-4
+	Grh1519=4-338-354-370-386-4
+	Grh1520=4-339-355-371-387-4
+'<-------------------------------------------------------------->
+
+Grh1521=9-315-316-317-318-319-320-321-322-323-1 'FOGATA ANIMADA
+
+Grh500=1-500-0-0-64-32-CARTEL ARMAS
+Grh501=1-501-0-0-319-239-CARTEL GRANDE MADERA
+Grh502=1-502-0-0-32-32-COFRE ABIERTO
+Grh503=1-503-0-0-32-32-COFRE CERRADO
+Grh504=1-504-0-0-32-32-ESPADA LARGA
+Grh505=1-505-0-0-32-32-HACHA
+Grh506=1-506-0-0-32-32-MANZANA
+Grh508=1-507-0-0-32-32-TRIDENTE
+Grh509=1-508-0-0-32-32-LLAVE
+Grh510=1-509-0-0-32-32-DAGA
+Grh511=1-510-0-0-32-32-MONEDAS ORO
+Grh512=1-511-0-0-64-32-CARTEL COMIDA
+Grh513=1-512-0-0-32-32-LAPIDA CHICA
+Grh514=1-513-0-0-314-234-LAPIDA GRABDE
+Grh515=1-514-0-0-32-32-Tarta
+Grh516=1-515-0-0-32-32-Frutas
+Grh517=1-516-0-0-32-32-Pan de trigo
+Grh518=1-517-0-0-32-32-Pan de maiz
+Grh519=1-518-0-0-32-32-Pastel
+Grh520=1-519-0-0-32-32-Pollo
+Grh521=1-520-0-0-32-32-Chuleta
+Grh522=1-521-0-0-32-32-Queso de cabra
+Grh523=1-522-0-0-32-32-Sandia
+Grh524=1-524-0-0-64-104-Cama
+Grh525=1-525-0-0-42-49-Sillon
+Grh526=1-316-0-0-32-32-Armadura de cuero
+Grh527=1-317-0-0-32-32-Vest comunes hum
+Grh528=1-318-0-0-32-32-Vest comunes elfo
+Grh529=1-527-0-0-64-32-Cartel Foro
+Grh530=1-528-0-0-64-32-Cartel Sastre
+Grh531=1-526-0-0-160-128-Cartel ULLATHORPE
+Grh532=1-4-0-0-26-46-FX TELEP
+Grh533=1-4-25-0-26-46-FX TELEP
+Grh534=2-532-533-1 FX TELEP ANIM
+Grh535=1-319-0-0-32-32-Vest comunes elf oscuro
+Grh536=1-529-0-0-32-32-Botella vino
+Grh537=1-530-0-0-32-32-Botella Agua
+Grh538=1-531-0-0-32-32-Libro abierto
+Grh539=1-532-0-0-32-32-Libro abierto 2
+Grh540=1-533-0-0-32-32-Pocion amarilla
+Grh541=1-534-0-0-32-32-Pocion azul
+Grh542=1-535-0-0-32-32-Pocion roja
+Grh543=1-536-0-0-32-32-Pocion verde
+Grh544=1-537-0-0-32-32-Ropa clan raza grande
+Grh545=1-555-0-0-160-128-Cartel NIX
+Grh546=1-21-0-0-64-32-Cartel Pociones
+Grh547=1-22-0-0-64-32-Cartel n 1
+Grh548=1-23-0-0-64-32-Cartel Carpintero
+Grh549=1-24-0-0-64-32-Cartel propiedades
+Grh550=1-556-0-0-32-32-Leña
+Grh551=1-557-0-0-63-32-Cartel n 2
+Grh552=1-558-0-0-63-32-Cartel n 3
+Grh553=1-559-0-0-63-32-Cartel n 4
+Grh554=1-560-0-0-32-32-Vestimenta de clan
+Grh555=1-561-0-0-63-32-Cartel n 5
+Grh556=1-562-0-0-63-32-Cartel n 6
+Grh557=1-563-0-0-32-32-ESCUDO HIERRO
+Grh558=1-564-0-0-32-32-CASCO VIKINGO
+Grh559=1-565-0-0-32-32-CASCO MILITAR
+Grh560=1-566-0-0-32-32-ESCUDO PLATA
+Grh561=1-567-0-0-32-32-Espada dos manos + 3
+Grh562=1-568-0-0-32-32-Sable
+Grh563=1-569-0-0-32-32-Sable de guerra
+Grh564=1-570-0-0-32-32-Hacha larga de guerra
+Grh565=1-571-0-0-32-32-Hacha de leñador
+Grh566=1-572-0-0-32-32-Hacha de combate dos filos
+Grh567=1-573-0-0-63-32-Cartel n 7
+Grh568=1-574-0-0-63-32-Cartel n 8
+Grh569=1-575-0-0-63-32-Cartel n 9
+Grh570=1-577-0-0-63-32-Cartel armaduras
+Grh571=1-576-0-0-63-32-Tunica
+Grh572=1-578-0-0-32-32-ramitas
+Grh573=1-579-0-0-32-32-Pez
+Grh574=1-580-0-0-32-32-Caña
+Grh575=1-581-0-0-32-32-CAMA HORIZ
+Grh576=1-582-0-0-32-32-CAMA VERT
+Grh577=1-583-0-0-32-32-CARRETILLA HORIZ
+Grh578=1-584-0-0-32-32-CARRETILLA VERT
+Grh579=1-585-0-0-32-32-COPA DE PLATA
+Grh580=1-586-0-0-32-32-BARRIL DE MANZANAS
+Grh581=1-587-0-0-32-32-BANANAS
+Grh582=1-588-0-0-32-32-BARRIL AGUA
+Grh583=1-589-0-0-32-32-HACHA DE BARBARO
+Grh584=1-590-0-0-32-32-BOTELLA NEGRA
+Grh585=1-591-0-0-32-32-Botella amarilla
+Grh586=1-592-0-0-32-32-Silla1
+Grh587=1-593-0-0-32-32-Cuchara madera
+Grh588=1-594-0-0-32-32-Espada corta
+Grh589=1-594-0-0-32-32-Tridente
+Grh590=1-595-0-0-32-32-Florero
+Grh591=1-596-0-0-32-32-Jamon
+Grh592=1-599-0-0-32-32-Vasija
+Grh593=1-600-0-0-32-32-mueble
+Grh594=1-601-0-0-32-32-mueble
+Grh595=1-602-0-0-32-32-balde
+Grh596=1-603-0-0-32-32-reloj arena
+Grh597=1-604-0-0-32-32-canasto
+Grh598=1-605-0-0-32-32-silla
+Grh599=1-606-0-0-32-32-silla
+Grh600=1-608-0-0-32-32-yunque
+Grh601=1-609-0-0-32-32-pocion violeta
+Grh602=1-610-0-0-32-32-vestimenta mujer
+Grh603=1-611-0-0-32-32-Piquete de minero
+Grh604=1-612-0-0-32-32-Hierro
+Grh605=1-613-0-0-32-32-Armadura placas completa
+Grh606=1-614-0-0-32-32-Tunica de mago
+Grh607=1-615-0-0-32-32-Serrucho
+Grh608=1-616-0-0-32-32-Piquete
+Grh609=1-617-0-0-32-32-Pergamino
+Grh610=1-618-0-0-64-32-Cartel mineros
+Grh611=1-619-0-0-64-32-Cartelcasa 11
+Grh612=1-620-0-0-64-32-Cartelcasa 12
+Grh613=1-621-0-0-64-32-Cartelcasa 13
+Grh614=1-622-0-0-64-32-Cartelcasa 14
+Grh615=1-623-0-0-64-32-Cartelcasa 15
+Grh616=1-624-0-0-64-32-Cartelcasa 16
+Grh617=1-625-0-0-64-32-Cartelcasa 17
+Grh618=1-626-0-0-64-32-Cartelcasa 18
+Grh619=1-627-0-0-64-32-Cartelcasa 19
+Grh620=1-628-0-0-64-32-Cartelcasa 10
+Grh621=1-629-0-0-64-32-Cartelcasa 20
+Grh622=1-630-0-0-64-32-Cartel magia
+Grh623=1-631-0-0-64-32-Cartel pescadores
+Grh624=1-632-0-0-128-64-Cartel Asvertencia
+Grh625=1-633-0-0-128-64-Cartel señal cruce NIX/ULLA
+Grh626=1-634-0-0-128-64-Cartel NEWBIE DUNGEON
+Grh627=1-635-0-0-128-64-Cartel señal cruce ULLA/DORCK
+Grh628=1-636-0-0-128-64-Cartel BOSQUE DORCK
+Grh629=1-637-0-0-64-128-Cerco
+Grh630=1-638-0-0-128-64-Cerco
+Grh631=1-639-0-0-32-32-Oro
+Grh632=1-640-0-0-32-32-Plata
+Grh633=1-641-0-0-256-32-(OBJ)(FUENTE NIEVE)  1 A
+Grh634=1-641-0-32-256-32-(OBJ)(FUENTE NIEVE)  1 B
+Grh635=1-641-0-64-256-32-(OBJ)(FUENTE NIEVE)  1 C
+Grh636=1-641-0-96-256-32-(OBJ)(FUENTE NIEVE)  1 D
+Grh637=1-641-0-128-256-32-(OBJ)(FUENTE NIEVE)  1 E
+Grh638=1-641-0-160-256-32-(OBJ)(FUENTE NIEVE)  1 F
+Grh639=1-641-0-192-256-32-(OBJ)(FUENTE NIEVE)  1 G
+Grh640=1-641-0-224-256-32-(OBJ)(FUENTE NIEVE)  1 H
+
+Grh641=1-642-0-0-128-128-(Arbol nieve 1)
+Grh643=1-644-0-0-256-256-(Arbol nieve 3)
+Grh644=1-645-0-0-256-256-(Arbol nieve 4)
+Grh645=1-646-0-0-256-256-(Colmillo 1)
+Grh646=1-647-0-0-256-256-(Colmillo 2)
+Grh647=1-648-0-0-128-128-(Arbol nieve 5)
+
+Grh648=1-652-0-0-64-64-(Cantero)
+Grh649=1-653-0-0-64-32-(Cantero 2)
+Grh650=1-654-0-0-64-96-(Carreta)
+Grh651=1-655-0-0-96-64-(Carreta 2)
+Grh652=1-656-0-0-96-64-(Carreta 3)
+Grh653=1-657-0-0-64-64-(Mazeta)
+
+Grh654=1-658-0-0-32-32-(Ropa de noble)
+Grh655=1-659-0-0-32-32-(Armadura Klox)
+Grh656=1-660-0-0-32-32-(Tunica azul)
+Grh657=1-661-0-0-32-32-(Tunica roja)
+Grh658=1-662-0-0-32-32-(Ropa de enano)
+Grh659=1-663-0-0-32-32-(Armadura placas de enano)
+Grh660=1-664-0-0-160-128-Cartel Rázgul
+Grh661=1-665-0-0-43-64-(Portal Frame 1)
+Grh662=1-665-43-0-43-64-(Portal Frame 2)
+Grh663=1-665-86-0-43-64-(Portal Frame 3)
+Grh664=1-665-129-0-43-64-(Portal Frame 4)
+Grh665=1-665-172-0-43-64-(Portal Frame 5)
+Grh666=1-665-215-0-43-64-(Portal Frame 6)
+Grh667=1-665-258-0-43-64-(Portal Frame 7)
+Grh668=1-665-301-0-43-64-(Portal Frame 8)
+Grh669=8-661-662-663-664-665-666-667-668-1
+Grh670=1-666-0-0-64-32-(Cartel banco)
+Grh671=1-667-0-0-128-64-(Cartel Meson Hostigado)
+Grh672=1-668-0-0-64-32-(Provisiones)
+Grh673=1-669-0-0-64-32-(Sacerdote)
+Grh674=1-670-0-0-128-64-(El gran consejo)
+Grh675=1-673-0-0-128-64-(Cartel Muelles)
+Grh676=1-674-0-0-128-64-(Finanzas Goliath)
+Grh677=1-675-0-0-128-64-(Palacete real)
+Grh678=1-672-0-0-209-107-(Mesa)
+Grh679=1-671-0-0-47-64-(Estatua)
+Grh680=1-676-0-0-32-32-(Armadura de las sombras)
+Grh681=1-677-0-0-32-32-(Túnica de Druida)
+Grh682=1-678-0-0-32-32-(Cota de mallas)
+Grh683=1-679-0-0-32-32-(Armadura de cazador)
+Grh684=1-680-0-0-32-32-(Tambor)
+Grh685=1-681-0-0-32-32-(Laud)
+Grh686=1-682-0-0-32-32-(Flauta)
+Grh687=1-683-0-0-32-32-(Tunica gran mago)
+Grh688=1-684-0-0-32-32-(Armadura Noble)
+Grh689=1-685-0-0-32-32-(Vestimentas reales)
+Grh690=1-686-0-0-32-32-(Armadura Noble)
+Grh691=1-687-0-0-32-32-(Armadura Caos)
+Grh692=1-688-0-0-32-32-(Tunica Caos)
+Grh693=1-689-0-0-32-32-(Tunica Monje)
+Grh694=1-690-0-0-32-32-(Vestido azul)
+Grh695=1-691-0-0-32-32-(Armadura real enano)
+Grh696=1-692-0-0-178-272-(Cripta)
+
+Grh697=1-693-0-0-32-32-(Piel lobo)
+Grh698=1-694-0-0-32-32-(Piel oso polar)
+Grh699=1-695-0-0-32-32-(Piel oso blanco)
+Grh700=1-696-0-0-32-32-(Gema lunar)
+Grh701=1-697-0-0-32-32-(Gema azul)
+Grh702=1-698-0-0-32-32-(Gema naranja)
+Grh703=1-699-0-0-32-32-(Gema azul)
+Grh704=1-700-0-0-32-32-(Gema lila)
+Grh705=1-704-0-0-32-32-(Gema roja)
+Grh706=1-705-0-0-32-32-(Gema verde)
+Grh707=1-706-0-0-32-32-(Gema violeta)
+
+Grh708=1-708-0-0-32-32-(Martillo de guerra)
+Grh709=1-709-0-0-32-32-(Cimitarra)
+Grh710=1-710-0-0-32-32-(Daga)
+Grh711=1-711-0-0-32-32-(Daga2)
+Grh712=1-712-0-0-32-32-(Escudo piel)
+Grh713=1-713-0-0-32-32-(Espada de plata)
+Grh714=1-714-0-0-32-32-(Garrote)
+Grh715=1-715-0-0-32-32-(Vara de mago)
+Grh716=1-716-0-0-32-32-(Espada mata dragones)
+Grh717=1-717-0-0-32-32-(Casco de plata)
+
+Grh718=1-721-0-0-128-64-(Prision)
+Grh719=1-722-0-0-128-64-(Gran consejo)
+Grh720=1-723-0-0-128-64-(Prision 2)
+Grh721=1-724-0-0-128-64-(Abadia)
+
+Grh722=1-725-0-0-32-32-(Fragua)
+Grh723=1-726-0-0-32-32-(Lingote oro)
+Grh724=1-727-0-0-32-32-(Lingote hierro)
+Grh725=1-728-0-0-32-32-(Lingote plata)
+
+Grh726=1-729-0-0-32-32-(Martillo)
+
+
+Grh728=1-730-0-0-128-128-(Fajo de paja)
+Grh729=1-731-0-0-32-32-(Margarita)
+Grh730=1-732-0-0-32-32-(Hongo manchas rojas)
+Grh731=1-733-0-0-32-32-(Honguitos rojos)
+Grh732=1-734-0-0-32-32-(Honguitos grises)
+Grh733=1-735-0-0-32-32-(Honguitos verdes)
+Grh734=1-736-0-0-32-32-(Juncos)
+Grh735=1-737-0-0-256-256-(Palmera)
+Grh736=1-738-0-0-64-96-(Puente vert)
+Grh737=1-739-0-0-96-64-(Puente horiz)
+Grh738=1-740-0-0-32-32-(Cactus)
+
+
+Grh749=1-743-0-0-32-32-(Canoa Inventario)
+
+Grh750=1-744-0-0-32-32-(Arco)
+Grh751=1-745-0-0-32-32-(Arco compuesto)
+Grh752=1-747-0-0-32-32-(Flecha comun)
+Grh753=1-748-0-0-32-32-(Flecha de fuego)
+Grh754=1-749-0-0-32-32-(Flecha de caza)
+Grh755=1-750-0-0-32-32-(Flecha envenenada)
+
+
+Grh756=1-756-0-0-32-32-(Armadura dragón hombre)
+Grh757=1-757-0-0-32-32-(Armadura dragón mujer)
+Grh758=1-758-0-0-32-32-(Armadura dragón enano/enana)
+Grh759=1-759-0-0-32-32-(Armadura Imperial de Segunda jerarquìa)
+Grh760=1-760-0-0-32-32-(Armadura de herrero)
+Grh761=1-761-0-0-32-32-(Armadura legendaría)
+Grh762=1-762-0-0-32-32-(Ropa de enano)
+Grh763=1-763-0-0-32-32-(Dama de las tinieblas)
+Grh764=1-764-0-0-32-32-(White lady)
+Grh765=1-765-0-0-32-32-(Placas azul)
+Grh766=1-766-0-0-32-32-(White lady)
+Grh767=1-767-0-0-32-32-(Túnica de clerigo)
+Grh768=1-768-0-0-32-32-(Imperal Enano Real 2° Jerarquia)
+Grh769=1-769-0-0-32-32-(Armadura de Placas Roja)
+Grh770=1-770-0-0-32-32-(Armadura Infernal)
+Grh771=1-771-0-0-32-32-(Armadura escarlata)
+Grh772=1-772-0-0-32-32-(Armadura de la ciénaga)
+Grh773=1-773-0-0-32-32-(Armadura de placas de gala)
+Grh774=1-774-0-0-32-32-(Armadura maléfica)
+Grh775=1-775-0-0-32-32-(Cotas de malla)
+Grh776=1-776-0-0-32-32-(Armadura bruñida)
+Grh777=1-777-0-0-32-32-(Ropa de campesino Humano)
+Grh778=1-778-0-0-32-32-(Ropa de campesino Enano)
+Grh779=1-779-0-0-32-32-(Trampa Visual)
+Grh780=1-780-0-0-32-32-(Ropa de mujer)
+Grh781=1-781-0-0-32-32-(Ropa de mujer)
+Grh782=1-782-0-0-32-32-(Ropa de mujer)
+Grh783=1-783-0-0-32-32-(Ropa comun ovispo)
+Grh784=1-784-0-0-32-32-(Ropa Estuaria)
+Grh785=1-785-0-0-32-32-(Tunica de mago del Caos)
+Grh786=1-786-0-0-32-32-(Vestido Indulgente)
+Grh787=1-787-0-0-32-32-(Vestido De Novia Sensual)
+Grh788=1-788-0-0-32-32-(Vestido De Novia Sensual (elfo oscuro) )
+Grh789=1-789-0-0-32-32-(Vestido Calipso (Enana))
+Grh790=1-790-0-0-32-32-(Vestido de Bruja)
+Grh791=1-791-0-0-32-32-(Vestido de Bruja Elfo Oscuro)
+Grh792=1-792-0-0-32-32-(Ropa Legendaria)
+Grh793=1-793-0-0-32-32-(Túnica imperial)
+Grh794=1-794-0-0-32-32-(Túnica imperial)
+Grh795=1-795-0-0-32-32-(Túnica caos)
+Grh796=1-796-0-0-32-32-(Túnica legendaria)
+Grh797=1-797-0-0-32-32-(Armadura imperial)
+Grh798=1-798-0-0-32-32-(Armadura Imperial Segunda jerarquía)
+Grh799=1-799-0-0-32-32-(Armadura Imperial Enano)
+Grh800=1-800-0-0-32-32-(Armadura del caos)
+Grh801=1-801-0-0-32-32-(Túnica roja)
+Grh802=1-802-0-0-32-32-(Tunica combinada de Duende (Hombre))
+Grh803=1-803-0-0-32-32-(Tunica combinada de Duende (Mujer))
+Grh804=1-804-0-0-32-32-(Ropa común enana)
+Grh805=1-805-0-0-32-32-(Armadura cuero enana)
+Grh806=1-806-0-0-32-32-(Túnica GM)
+Grh807=1-807-0-0-32-32-(Armadura cuero mujer)
+
+
+'Portal amarillo
+Grh808=1-752-0-0-43-64-(Portal Frame 1)
+Grh809=1-752-43-0-43-64-(Portal Frame 2)
+Grh810=1-752-86-0-43-64-(Portal Frame 3)
+Grh811=1-752-129-0-43-64-(Portal Frame 4)
+Grh812=1-752-172-0-43-64-(Portal Frame 5)
+Grh813=1-752-215-0-43-64-(Portal Frame 6)
+Grh814=1-752-258-0-43-64-(Portal Frame 7)
+Grh815=1-752-301-0-43-64-(Portal Frame 8)
+Grh816=8-756-757-758-759-760-761-762-763-1
+
+'Portal verde
+Grh817=1-753-0-0-43-64-(Portal Frame 1)
+Grh818=1-753-43-0-43-64-(Portal Frame 2)
+Grh819=1-753-86-0-43-64-(Portal Frame 3)
+Grh820=1-753-129-0-43-64-(Portal Frame 4)
+Grh821=1-753-172-0-43-64-(Portal Frame 5)
+Grh822=1-753-215-0-43-64-(Portal Frame 6)
+Grh823=1-753-258-0-43-64-(Portal Frame 7)
+Grh824=1-753-301-0-43-64-(Portal Frame 8)
+Grh825=8-765-766-767-768-769-770-771-772-1
+
+'Portal celeste
+Grh826=1-754-0-0-43-64-(Portal Frame 1)
+Grh827=1-754-43-0-43-64-(Portal Frame 2)
+Grh828=1-754-86-0-43-64-(Portal Frame 3)
+Grh829=1-754-129-0-43-64-(Portal Frame 4)
+Grh830=1-754-172-0-43-64-(Portal Frame 5)
+Grh831=1-754-215-0-43-64-(Portal Frame 6)
+Grh832=1-754-258-0-43-64-(Portal Frame 7)
+Grh833=1-754-301-0-43-64-(Portal Frame 8)
+Grh834=8-774-775-776-777-778-779-780-781-1
+
+'Portal violeta
+Grh835=1-755-0-0-43-64-(Portal Frame 1)
+Grh836=1-755-43-0-43-64-(Portal Frame 2)
+Grh837=1-755-86-0-43-64-(Portal Frame 3)
+Grh838=1-755-129-0-43-64-(Portal Frame 4)
+Grh839=1-755-172-0-43-64-(Portal Frame 5)
+Grh840=1-755-215-0-43-64-(Portal Frame 6)
+Grh841=1-755-258-0-43-64-(Portal Frame 7)
+Grh842=1-755-301-0-43-64-(Portal Frame 8)
+Grh843=8-783-784-785-786-787-788-789-790-1
+
+Grh844=1-815-0-0-32-32-(Red de pesca)
+Grh845=1-816-0-0-32-32-(Pez alto mar)
+Grh846=1-817-0-0-32-32-(Pez espada azúl)
+Grh847=1-819-0-0-32-32-(Pez espada verde)
+Grh848=1-820-0-0-32-32-(Caballito mar)
+Grh849=1-821-0-0-32-32-(Botella vacía)
+Grh850=1-822-0-0-32-32-(Botella llena de agua)
+
+Grh851=1-823-0-0-18-26-(HADA FRAME 1)
+Grh852=1-823-18-0-18-26-(HADA FRAME 1)
+Grh853=1-823-0-26-18-26-(HADA FRAME 1)
+Grh854=1-823-18-26-18-26-(HADA FRAME 1)
+
+Grh855=1-823-0-52-18-26-(HADA FRAME 1)
+Grh856=1-823-18-52-18-26-(HADA FRAME 1)
+Grh857=1-823-0-78-18-26-(HADA FRAME 1)
+Grh858=1-823-18-78-18-26-(HADA FRAME 1)
+
+Grh859=2-851-852-1
+Grh860=2-853-854-1
+Grh861=2-855-856-1
+Grh862=2-857-858-1
+
+Grh863=1-824-0-0-128-64-Dungeon Veriil
+Grh864=1-825-0-0-128-64-Arghâl
+
+
+
+
+
+
+

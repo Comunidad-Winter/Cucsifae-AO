@@ -1,0 +1,193 @@
+[INIT]
+NumArmaduras=61
+
+[Armadura1] ' Cota mallas
+Index=359
+
+[Armadura2] ' Armadura placas 
+Index=195
+
+[Armadura3] ' Armadura placas + 1
+Index=390
+
+[Armadura4] ' Armadura placas + 2
+Index=391
+
+[Armadura5] ' Armadura placas enanos
+Index=243
+
+[Armadura6] ' Armadura placas enanos + 1
+Index=392
+
+[Armadura7] ' Armadura placas enanos + 2
+Index=393
+
+[Armadura8] ' Escudo hierro
+Index=128
+
+[Armadura9] ' Escudo imperial
+Index=133
+
+[Armadura10] ' Escudo de tortuga
+Index=404
+
+[Armadura11] ' Casco de plata
+Index=405
+
+[Armadura12] ' Armadura dragon
+Index=481
+
+[Armadura13] ' Armadura dragon mujer
+Index=482
+
+[Armadura14] ' Armadura dragon raza enana
+Index=483
+
+[Armadura15] ' Armadura Herrero
+Index=484
+
+[Armadura16] ' Armadura legendaria
+Index=485
+
+[Armadura17] ' Dama de las tinieblas
+Index=487
+
+[Armadura18] ' Placas azúl
+Index=489
+
+[Armadura19] ' Placas roja
+Index=493
+
+[Armadura20] ' Escarlata
+Index=495
+
+[Armadura21] ' Cienaga
+Index=496
+
+[Armadura22] ' Placas gala
+Index=497
+
+[Armadura23] ' Cota mallas mujer
+Index=499
+
+[Armadura24] ' Bruñida
+Index=500
+
+[Armadura25] ' Casco Dorado
+Index=568
+
+[Armadura26] ' Gala Dorada
+Index=567
+
+[Armadura27] ' Enano Dorada
+Index=566
+
+[Armadura28] ' Cota Enano
+Index=565
+
+[Armadura29] ' Escudo Dorado
+Index=564
+
+[Armadura30] ' Escudo Divino
+Index=565
+
+[Armadura31] ' armadura sombras
+Index=356
+
+[Armadura32] ' armadura mercenario
+Index=749
+
+[Armadura33] ' armadura noble
+Index=751
+
+[Armadura34] ' cota reforzada
+Index=764
+
+[Armadura35] ' armadura epsilon
+Index=765
+
+
+[Armadura36] ' armadura Omega
+Index=766
+
+
+[Armadura37] ' armadura guerrero pantano
+Index=768
+
+
+[Armadura38] ' armadura caballero
+Index=782
+
+
+[Armadura39] ' armadura Omega magica
+Index=788
+
+
+[Armadura40] ' armadura caballero df magica
+Index=789
+
+[Armadura41] ' cota reforzada df magica
+Index=790
+
+[Armadura42] ' armadura enano df magica
+Index=792
+
+[Armadura43] ' placas dorada enano df magica
+Index=793
+
+[Armadura44] ' cota enano df magica
+Index=794
+
+[Armadura45] ' Maestre dorado
+Index=568
+
+[Armadura46] ' casco de caballero
+Index=691
+
+[Armadura47] ' casco gran maestre
+Index=692
+
+[Armadura48] ' casco incompleto
+Index=693
+
+[Armadura49] ' casco miliciano
+Index=694
+
+[Armadura50] ' casco oscuro
+Index=695
+
+[Armadura51] ' Casco de hierro Incompleto
+Index=696
+
+[Armadura52] ' Casco de guerrero completo
+Index=697
+
+[Armadura53] ' Corona
+Index=698
+
+[Armadura54] ' Escudo rustico
+Index=564
+
+[Armadura55] ' rodela comun
+Index=563
+
+[Armadura56] ' Escudo plata
+Index=699
+
+[Armadura57] ' Escudo Caballero
+Index=700
+
+[Armadura58] ' Escudo imperio
+Index=701
+
+[Armadura59] ' Escudo oscuro
+Index=702
+
+[Armadura60] ' Escudo 3 puntas
+Index=703
+
+[Armadura61] ' rodela madera ref
+Index=704
+
+
+

@@ -1,0 +1,88 @@
+'Tipos de Objetivo
+'1 Matar Npcs
+'2 Matar Usuarios (Si sos de la armada crimis, si sos del caos ciudas y sino cualkiera de los dos)
+'3 Encontrar un Npc
+'4 Matar un Npc especifico
+
+'Npc para quest (Tipos)
+'Questero = 8
+'Amigo = 9
+
+[INIT]
+NumQuests=10
+
+[Quest1]
+DaOro=1
+Oro=1000
+Objetivo=1
+Npcs=20
+
+[Quest2]
+DaOro=1
+Oro=2500
+Objetivo=1
+Npcs=80
+
+[Quest3]
+DaExp=1
+Exp=3000
+Objetivo=3
+Coordenadas1=157-26-27
+Coordenadas2=34-50-50
+Coordenadas3=59-50-50
+Coordenadas4=36-50-50
+Coordenadas5=112-27-43
+AmigoNpc=102
+
+[Quest4]
+DaOro=1
+Oro=5000
+Objetivo=1
+Npcs=500
+
+[Quest5]
+DaObj=1
+Obj=691
+Objetivo=2
+Usuarios=10
+Criminales=10
+Ciudadanos=10
+
+[Quest6]
+DaOro=1
+Oro=7000
+Objetivo=4
+Coordenadas1=35-50-50
+Coordenadas2=2-50-50
+Coordenadas3=17-50-50
+Coordenadas4=58-50-50
+Coordenadas5=12-50-50
+CriaturaIndex=103
+
+[Quest7]
+DaObj=1
+Obj=721
+Objetivo=2
+Usuarios=30
+Criminales=30
+Ciudadanos=30
+
+[Quest8]
+DaExp=1
+Exp=25000
+Objetivo=1
+Npcs=1200
+
+[Quest9]
+DaExp=1
+Exp=45000
+Objetivo=1
+Npcs=2000
+
+[Quest10]
+DaObj=1
+Obj=361
+Objetivo=2
+Usuarios=50
+Criminales=50
+Ciudadanos=50

@@ -1,0 +1,103 @@
+[JerarquiaI]
+
+ArmaduraImperial1 = 370
+TunicaMagoImperial = 491
+TunicaMagoImperialEnanos = 754
+ArmaduraImperial2 = 520
+ArmaduraImperial3 = 522
+
+ArmaduraCaos1 = 744
+TunicaMagoCaos = 772
+TunicaMagoCaosEnanos = 778
+ArmaduraCaos2 = 756
+ArmaduraCaos3 = 787
+
+ArmaduraImpMujer1 = 370
+ArmaduraImpMujer2 = 520
+ArmaduraImpMujer3 = 522
+TunicaMagoImpMujer = 491
+TunicaMagoImpEnanosMujer = 754
+
+ArmaduraCaosMujer1 = 744
+ArmaduraCaosMujer2 = 756
+ArmaduraCaosMujer3 = 787
+TunicaMagoCaosMujer = 772
+TunicaMagoCaosEnanoMujer =778
+
+[JerarquiaII]
+
+ArmaduraImperial1 = 741
+TunicaMagoImperial = 743
+TunicaMagoImperialEnanos = 763
+ArmaduraImperial2 = 783
+ArmaduraImperial3 = 745
+
+ArmaduraCaos1 = 523
+TunicaMagoCaos = 380
+TunicaMagoCaosEnanos = 779
+ArmaduraCaos2 = 784
+ArmaduraCaos3 = 383
+
+ArmaduraImpMujer1 = 741
+ArmaduraImpMujer2 = 783
+ArmaduraImpMujer3 = 745
+TunicaMagoImpMujer = 743
+TunicaMagoImpEnanosMujer = 763
+
+ArmaduraCaosMujer1 = 523
+ArmaduraCaosMujer2 = 784
+ArmaduraCaosMujer3 = 383
+TunicaMagoCaosMujer = 380
+TunicaMagoCaosEnanoMujer = 779
+
+[JerarquiaIII]
+
+ArmaduraImperial1 = 372
+TunicaMagoImperial = 517
+TunicaMagoImperialEnanos = 769
+ArmaduraImperial2 = 521
+ArmaduraImperial3 = 492
+
+ArmaduraCaos1 = 379
+TunicaMagoCaos = 518
+TunicaMagoCaosEnanos = 780
+ArmaduraCaos2 = 785
+ArmaduraCaos3 = 758
+
+ArmaduraImpMujer1 = 372
+ArmaduraImpMujer2 = 521
+ArmaduraImpMujer3 = 492
+TunicaMagoImpMujer = 517
+TunicaMagoImpEnanosMujer = 769
+
+ArmaduraCaosMujer1 = 379
+ArmaduraCaosMujer2 = 785
+ArmaduraCaosMujer3 = 758
+TunicaMagoCaosMujer = 518
+TunicaMagoCaosEnanoMujer = 780
+
+[JerarquiaIV]
+
+ArmaduraImperial1 = 747
+TunicaMagoImperial = 369
+TunicaMagoImperialEnanos = 767
+ArmaduraImperial2 = 753
+ArmaduraImperial3 = 750
+
+ArmaduraCaos1 = 771
+TunicaMagoCaos = 755
+TunicaMagoCaosEnanos = 781
+ArmaduraCaos2 = 786
+ArmaduraCaos3 = 746
+
+ArmaduraImpMujer1 = 747
+ArmaduraImpMujer2 = 753
+ArmaduraImpMujer3 = 750
+TunicaMagoImpMujer = 369
+TunicaMagoImpEnanosMujer = 767
+
+ArmaduraCaosMujer1 = 771
+ArmaduraCaosMujer2 = 786
+ArmaduraCaosMujer3 = 746
+TunicaMagoCaosMujer = 755
+TunicaMagoCaosEnanoMujer = 781

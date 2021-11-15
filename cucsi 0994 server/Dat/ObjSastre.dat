@@ -1,0 +1,194 @@
+[INIT]
+NumObjs=63
+
+[Obj1] 'Vestimentas comunes
+Index=31
+
+[Obj2] 'Vestimentas comunes
+Index=32
+
+[Obj3] 'Vestimentas comunes
+Index=35
+
+[OBJ4] 'Ropa de clan
+Index=45 
+
+[OBJ5] 'Ropa de clan
+Index=80
+
+[OBJ6] 'Armadura de cuero
+Index=30
+
+[OBJ7] 'Armadura de cazador
+Index=360
+
+[OBJ8] 'Armadura cuero (H/EL/ELO-M)
+Index=529
+
+[OBJ9] 'Vestimenta de mujer
+index=170
+
+[OBJ10] 'Ropa de enano
+index=240
+
+[OBJ11] 'Vestido azul
+index=382
+
+[OBJ12] 'Ropa de Enano
+index=486
+
+[OBJ13] 'White Lady
+index=488
+
+[OBJ14] 'Ropa de minero
+index=490
+
+[OBJ15] 'Ropa de Campesino (H/E/EO-H)
+index=501
+
+[OBJ16] 'Ropa de Campesino (E/G-H/M)
+index=502
+
+[OBJ17] 'Trampa Visual (H/E/EO-H)
+index=503
+
+[OBJ18] 'Ropa Común (H/E/EO-M)
+index=504
+
+[OBJ19] 'Ropa Común (H/E/EO-M)
+index=505
+
+[OBJ20] 'Ropa Común (H/E/EO-M)
+index=506
+
+[OBJ21] 'Ropa Común Ovispo (E/G-H)
+index=507
+
+[OBJ22] 'Ropa Estuaria (H/E/EO-M)
+index=508
+
+[OBJ23] 'Vestido Indulgente (H/E/EO-M)
+index=510
+
+[OBJ24] 'Vestido De Novia Sensual (H/E-M)
+index=511
+
+[OBJ24] 'Vestido Calipso (E/G-M)
+index=512
+
+[OBJ25] 'Vestido de Bruja (H/E-M)
+index=513
+
+[OBJ26] 'Vestido de Bruja (EO-M)			
+index=514
+
+[OBJ27] 'Ropa Legendaria (H/E/EO-H)
+index=515
+
+[OBJ28] 'Ropa común (E/G-M)
+index=527
+
+[OBJ29] 'Vestido De Novia Sensual (EO-M)
+index=550
+
+[OBJ30] 'Tunica
+index=135
+
+[OBJ31] 'Tunica de mago
+index=196
+
+[OBJ32] 'Túnica Azul
+index=238
+
+[OBJ33] 'Túnica roja
+index=239
+
+[OBJ34] 'Túnica de druida
+index=357
+
+[OBJ35] 'Túnica monje
+index=381
+
+[OBJ36] 'Túnica Legendaria (H/E/EO-M/H)
+index=519
+
+[OBJ37] 'Tunica Roja(G-H/M)
+index=524
+
+[OBJ38] 'Tunica Roja combinada(G-H)
+index=525
+
+[OBJ39] 'Tunica Roja combinada(G-M)
+index=526
+
+[OBJ40] 'Túnica (H/EL/ELO-H/M)
+index=528
+
+[OBJ41] 'Tunica de Gaia
+index=742
+
+[OBJ42] 'Tunica de Tamuzz
+index=748
+
+[OBJ43] 'Ropa enana elegante
+index=752
+
+[OBJ44] 'Armadura de Cuero Negro
+index=759
+
+[OBJ45] 'Traje de Casamiento (enano)
+index=760
+
+[OBJ46] 'Traje de Casamiento
+index=761
+
+[OBJ47] 'Ropa de pieles
+index=762
+
+[OBJ48] 'Tunica Maligna
+index=770
+
+[OBJ49] 'Armadura de cuero (enano)
+index=773
+
+[OBJ50] 'Armadura de Cazador (enano)
+index=774
+
+[OBJ51] 'Ropa orco hombre
+index=775
+
+[OBJ52] 'Ropa orco mujer
+index=776
+
+[OBJ53] 'Ropa orco
+index=777
+
+[OBJ54] 'Armadura de Cuero Negro - Def Mag
+index=791
+
+[OBJ55] 'Armadura de cuero (enano) - Def Mag
+index=795
+
+[OBJ56] 'Tunica Malefica - Def Mag
+index=796
+
+[OBJ57] 'Tunica de Gaia - Def Mag
+index=797
+
+[OBJ58] 'Tunica de Tamuzz - Def Mag
+index=798
+
+[OBJ59] 'Túnica de druida - Def Mag
+index=799
+
+[OBJ60] 'Tunica Malefica de Gnomo - Def Mag
+index=800
+
+[OBJ61] 'Tunica Roja de Gnomo +1 con Defensa Magica
+index=801
+
+[OBJ62] 'Tunica Roja de Gnomo con Defensa Magica
+index=802
+
+[OBJ63] 'Tunica Negra de Gnomo con Defensa Magica
+index=803
